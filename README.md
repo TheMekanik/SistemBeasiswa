@@ -4,7 +4,7 @@
 This scholarship information system is a website designed as a platform for collaboration between scholarship providers and the relevant faculty to facilitate students seeking information and registration related to college scholarships. This system is built using the Laravel framework and utilizes a template from Admin LTE 3.
 
 ## System Features
-The system implements multi-user login for three user levels: faculty admin, students, and scholarship partners. These are the features provided : 
+The system implements multi-user login for three user levels: faculty admin, students, and scholarship partners. These are the features provided in the system : 
 - **Faculty Admin**
   - **Login** : 
     This feature allows faculty administrators to log into the system using their official credentials. Once logged in, they can access and manage various student and scholarship-related data.
