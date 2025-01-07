@@ -5,9 +5,20 @@ This scholarship information system is a website designed as a platform for coll
 
 ## System Features
 The system implements multi-user login for three user levels: faculty admin, students, and scholarship partners. These are the features provided : 
-- **[Faculty Admin]**
-- **[Scholarship Partner]**
-- **[Student]**
+- **Faculty Admin**
+  - **Login**
+    This feature allows faculty administrators to log into the system using their official credentials. Once logged in, they can access and manage various student and scholarship-related data.
+  - **View Student Data**
+    Faculty administrators can view all registered students' data in the system, including personal information, academic achievements, and scholarship application statuses. This feature helps in monitoring and evaluating students.
+  - **Provide Recommendation Letters**
+    Faculty administrators can approve or reject recommendation letters for students. These letters are essential for students applying for scholarships. This feature allows administrators to upload the recommendation letter directly to the student system.
+  - **View Scholarships**
+    Administrators can view detailed information about available scholarships, including descriptions, requirements, and application timelines. This helps administrators provide accurate information to students.
+  - **Logout**
+    This feature ensures faculty administrators can securely log out of the system after completing their tasks.
+    
+- **Scholarship Partner**
+- **Student**
 
 ## Contributing
 
